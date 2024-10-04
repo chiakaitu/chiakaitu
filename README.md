@@ -1,6 +1,8 @@
 ## 嗨 👋
-我是凃家愷 Zachary。
+我是凃家愷 Zachary
  - 前端工程師一枚
+ - 2015年第一次接觸程式語言
+ - 2021年開始學習網頁前端，並成為前端工程師
  - 可以來我的[部落格](https://chiakaitu.github.io/blog)逛逛
 <!--
 **chiakaitu/chiakaitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
